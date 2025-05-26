@@ -1,4 +1,4 @@
-👨‍💻 Mateus Marochi Andretta de Castro  
+#### 👨‍💻 Mateus Marochi Andretta de Castro  
 Backand • Hardware Developer | Python • C • Java | Computer Engineer Student PUCPR •
 
 🚀 Olá! Sou o Mateus, estudante de Engenharia da Computação apaixonado por tecnologia, inovação e impacto social.  
@@ -14,23 +14,14 @@ Busco unir conhecimento técnico com propósito, explorando o poder da programa�
 - 🧪 **POO e Estruturas de Dados** com foco em aplicações reais em C, Python e Java  
 - 🌐 **Desenvolvimento de sistemas fullstack** e controle de versão com Git e GitHub  
 
----
-
-🏆 **Projetos em Destaque**
-- **Startup Garage (SEBRAE-PR + UTFPR)**: Desenvolvimento de uma máquina que transforma PET em filamento para impressão 3D  
-- **Seminário IA**: Pesquisa e construção de chatbot para ambiente universitário com aplicação de entrevistas e comparação de percepções  
-- **SmartCity Expo Curitiba**: Participação na maior feira de soluções urbanas da América Latina, explorando mobilidade, infraestrutura e sustentabilidade  
-- **PoliWeek PUCPR**: Participação ativa em atividades voltadas à inovação, como IA na prática e Movimento Maker
-
----
 
 🛠️ **Tech Stack & Ferramentas**
 
 ### 💻 Linguagens & Programação
-Python • C • Java • Git • Bash • JavaScript (iniciante)
+Python • C • Java • Html • JavaScript
 
 ### ⚙️ Desenvolvimento & Eng. de Software
-POO • Estrutura de Dados • GitHub • VS Code • Sistemas embarcados
+POO • Estrutura de Dados • GitHub • VS Code • PI
 
 ### 🤖 Inteligência Artificial & Dados
 Chatbots • Lógica de Programação • Pandas (iniciante) • Engenharia de Prompt (inicial)

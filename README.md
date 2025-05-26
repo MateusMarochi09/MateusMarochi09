@@ -1,7 +1,7 @@
 <p align="center">
   <img src="banner mateus.png" alt="Banner" />
 </p>
-<h1 align="center">👨‍💻 Mateus Marochi Andretta de Castro</h1>
+<h1 align="left">👨‍💻 Mateus Marochi Andretta de Castro</h1>
 Backand • Hardware Developer | Python • C • Java | Computer Engineer Student PUCPR •
 
 🚀 Olá! Sou o Mateus, estudante de Engenharia da Computação apaixonado por tecnologia, inovação e impacto social.  

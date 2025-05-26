@@ -3,11 +3,14 @@
 </p>
 <h1 align="left">👨‍💻 Mateus Marochi Andretta de Castro</h1>
 Backand • Hardware Developer | Python • C • Java | Computer Engineer Student PUCPR
+
 <p>
+<br>
   🚀 Olá! Sou o Mateus, estudante de Engenharia da Computação apaixonado por tecnologia, inovação e impacto social.  
 Tenho perfil autodidata, proativo e voltado à resolução de problemas por meio da engenharia, da automação e do desenvolvimento de soluções inteligentes.
 Busco unir conhecimento técnico com propósito, explorando o poder da programação para transformar ideias em soluções reais.
 </p>
+
 ---
 
 🧠 **Atualmente me aprofundo em:**

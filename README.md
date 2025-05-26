@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner mateus.png" alt="Banner" />
+</p>
 #### 👨‍💻 Mateus Marochi Andretta de Castro  
 Backand • Hardware Developer | Python • C • Java | Computer Engineer Student PUCPR •
 

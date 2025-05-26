@@ -18,7 +18,6 @@ Busco unir conhecimento técnico com propósito, explorando o poder da programa�
 - 🧪 **POO e Estruturas de Dados** com foco em aplicações reais em C, Python e Java  
 
 🛠️ **Tech Stack & Ferramentas**
-
 ### 💻 Linguagens & Programação
 Python • C • Java • Html • JavaScript
 

@@ -11,12 +11,8 @@ Busco unir conhecimento técnico com propósito, explorando o poder da programa�
 ---
 
 🧠 **Atualmente me aprofundo em:**
-- 🤖 **IA aplicada**: Criação de chatbots, automação e modelos inteligentes aplicados à realidade universitária e social  
-- 🔁 **Sustentabilidade & Engenharia**: Projetos com impacto ambiental, como a transformação de garrafas PET em filamento para impressoras 3D  
 - 💬 **Interfaces inteligentes**: Design e desenvolvimento de experiências práticas com foco em usabilidade e eficiência  
 - 🧪 **POO e Estruturas de Dados** com foco em aplicações reais em C, Python e Java  
-- 🌐 **Desenvolvimento de sistemas fullstack** e controle de versão com Git e GitHub  
-
 
 🛠️ **Tech Stack & Ferramentas**
 
@@ -26,11 +22,8 @@ Python • C • Java • Html • JavaScript
 ### ⚙️ Desenvolvimento & Eng. de Software
 POO • Estrutura de Dados • GitHub • VS Code • PI
 
-### 🤖 Inteligência Artificial & Dados
-Chatbots • Lógica de Programação • Pandas (iniciante) • Engenharia de Prompt (inicial)
-
-### 🎯 Ferramentas e Soft Skills
-Notion • Trello • Canva • Apresentações Técnicas • Trabalho em Equipe • Proatividade • Comunicação Técnica
+### 🎯 Ferramentas
+Intel Quartus Prime • Power BI • Canva • AutoCad • Microsoft Excel
 
 ---
 

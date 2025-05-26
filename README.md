@@ -1,10 +1,9 @@
 👨‍💻 Mateus Marochi Andretta de Castro  
-| Estudante de Engenharia da Computação • Fullstack Explorer • Tech for Good | Python • C • Git • POO | PUCPR •
+Backand • Hardware Developer | Python • C • Java | Computer Engineer Student PUCPR •
 
 🚀 Olá! Sou o Mateus, estudante de Engenharia da Computação apaixonado por tecnologia, inovação e impacto social.  
 Tenho perfil autodidata, proativo e voltado à resolução de problemas por meio da engenharia, da automação e do desenvolvimento de soluções inteligentes.
-
-Busco unir conhecimento técnico com propósito, explorando o poder da programação, da inteligência artificial e de sistemas embarcados para transformar ideias em soluções reais.
+Busco unir conhecimento técnico com propósito, explorando o poder da programação para transformar ideias em soluções reais.
 
 ---
 

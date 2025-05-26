@@ -30,5 +30,3 @@ Intel Quartus Prime • Power BI • Canva • AutoCad • Microsoft Excel
 📫 **Vamos nos conectar?**
 - [LinkedIn](https://www.linkedin.com/in/mateus-marochi-andretta-de-castro/)  
 
-
-🧩 _"Transformar conhecimento em solução. Aprender, testar, errar e evoluir."_  

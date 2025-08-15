@@ -15,17 +15,17 @@ Busco unir conhecimento técnico com propósito, explorando o poder da programa�
 
 🧠 **Atualmente me aprofundo em:**
 - 💬 **Interfaces inteligentes**: Design e desenvolvimento de experiências práticas com foco em usabilidade e eficiência  
-- 🧪 **POO e Estruturas de Dados** com foco em aplicações reais em C, Python e Java  
+- 🧪 **POO, Estruturas de Dados e Banco de Dados** com foco em aplicações reais em C, Python e Java  
 
 🛠️ **Tech Stack & Ferramentas**
 ### 💻 Linguagens & Programação
-Python • C • Java • Html • JavaScript
+Python • C • Java • JavaScript
 
 ### ⚙️ Desenvolvimento & Eng. de Software
-POO • Estrutura de Dados • GitHub • VS Code • PI
+POO • Estrutura de Dados • GitHub • VS Code • PI • Banco de dados
 
 ### 🎯 Ferramentas
-Intel Quartus Prime • Power BI • Canva • AutoCad • Microsoft Excel
+Intel Quartus Prime • Power BI • Canva • AutoCad • Microsoft Excel • MathLab
 
 ---
 
